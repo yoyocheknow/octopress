@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://yoyocheknow.github.io/octopress/sitemap.xml 
