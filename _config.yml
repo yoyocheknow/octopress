@@ -1,7 +1,7 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
-
+encoding: UTF-8
 url: https://github.com/yoyocheknow/yoyochekow.github.io
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
