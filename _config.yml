@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 encoding: UTF-8
-url: https://github.com/yoyocheknow/yoyochekow.github.io
+url: git@github.com:yoyocheknow/yoyochekow.github.io.git
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
